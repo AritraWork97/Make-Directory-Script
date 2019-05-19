@@ -1,0 +1,14 @@
+Getting Started
+Environment Setup
+Introducing Python
+Running Python
+Common Data Types
+Control Flow
+Basic Scripting
+Intermediate Scripting
+Useful Standard Library Packages
+Using Pip and Virtualenv
+Planning & Project Structure
+Implementing Features with Test Driven Development
+Integrating Features and Distributing the Project
+Final Steps
